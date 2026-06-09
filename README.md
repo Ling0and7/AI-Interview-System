@@ -1,3 +1,5 @@
+## if you need the all,please email me 
+
 ## 最新运行教程
 
 双击根目录的start_web.bat，自动开启奥拉玛、后端、前端
